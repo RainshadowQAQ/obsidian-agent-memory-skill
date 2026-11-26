@@ -2,7 +2,7 @@
 
 一套面向多 AI Agent（Claude Code / Codex / Kimi Code / DeepSeek Harness）协作的个人工作流模板：用本地 Obsidian Markdown 目录作为跨工具交接层，搭配分层写作规则与确定性 Python 校验脚本 `kb.py`，控制上下文体积并减少模型擅自改写口径的问题。
 
-> 本仓库是从个人日常工作流脱敏整理出的**可运行模板**，纯属个人vibe-coding存档，含水量100%，详见下文的AI介绍。
+本仓库是从个人日常工作流脱敏整理出的**可运行模板**，纯属个人vibe-coding存档，含水量100%，详见下文的AI介绍。
 
 ---
 
